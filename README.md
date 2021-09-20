@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @z69zxz
+- 👋 Hi, I’m zxz
 - 👀 I’m interested in kali linux 
 - 🌱 I’m currently learning web attack 
 <!---
